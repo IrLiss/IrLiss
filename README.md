@@ -40,7 +40,7 @@
 <a href="https://github.com/IrLiss">
   <img height=145 src="https://github-readme-stats.vercel.app/api?username=IrLiss&theme=buefy&show_icons=true&count_private=true"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/IrLiss">
   <img height=145 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrLiss&theme=buefy&layout=compact"/>
 </a>
