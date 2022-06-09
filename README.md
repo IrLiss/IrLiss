@@ -52,7 +52,7 @@
 </br>
 </p>
 
-#### 🤝🏻 &nbsp;Connect with Me
+#### 🤝🏻 &nbsp;Contact Information
 <a href="mailto:irpulka@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-irpulka@gmail.com-darkblue?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Iryna%20Shapavalava%20-darkblue?style=flat-square&logo=linkedin"></a>
 
