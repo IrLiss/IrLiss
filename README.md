@@ -25,10 +25,10 @@
 ![AdobePremiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=40006e)
 ![AdobeAfterEffects](https://img.shields.io/badge/Adobe%20after%20effects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 
-<a href="#">
+<a href="https://www.figma.com/file/X65rw69raGZYN5NFKDSOKn/Lover-Flower-(Copy)?node-id=0%3A1&t=SFikfDUBNnfAFeQ0-0">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </a>
-<a href="https://www.behance.net/irlis">
+<a href="https://www.behance.net/irliss">
   <img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
 <a href="#">
